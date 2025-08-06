@@ -1,0 +1,2 @@
+This is my awesome new feature!
+It adds great value to the project.
